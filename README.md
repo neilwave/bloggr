@@ -1,4 +1,14 @@
-# FoundationPress
+## Another Wordpress theme
+
+*This repo is for practicing and learning how to handle Wordpress, FoundationPress, and github.*
+
+- no fancy stuff
+
+But in the sense of open source idea - feel free to take it when you can use it  :blue_heart:
+
+<hr>
+
+## FoundationPress
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/olefredrik/foundationpress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub version](https://badge.fury.io/gh/olefredrik%2Ffoundationpress.svg)](https://github.com/olefredrik/FoundationPress/releases)
