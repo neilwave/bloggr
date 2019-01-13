@@ -4,7 +4,7 @@
 
 - no fancy stuff
 
-But in the sense of open source idea - feel free to take it when you can use it  :blue_heart:
+But in the sense of open source - feel free to take it when you can use it  :blue_heart:
 
 <hr>
 
